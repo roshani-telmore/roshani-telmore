@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @roshani-telmore
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Redux and other stuff that would get me a job
+- 💞️ I’m looking to collaborate on Web as i want ot learn more about the process
+- 📫 How to reach me at roshanitelmore456@gmail.com and also on Linkedin www.linkedin.com/in/roshani-telmore-72ab011b5
